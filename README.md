@@ -42,7 +42,6 @@ Edit
 
 ---
 
-Let me know if you want a matching `requirements.txt` or deployment steps, jaaneman 💻✨.
 
 
 
